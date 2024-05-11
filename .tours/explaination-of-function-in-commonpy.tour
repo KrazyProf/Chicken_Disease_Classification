@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Explaination of function in common.py",
+  "steps": [
+    {
+      "file": "src/cnnClassifier/utils/common.py",
+      "description": "d1 = {'key': 'value}\r\nd1.key is not accessible\r\n\r\nbut with config box we can access d1.key",
+      "line": 15
+    },
+    {
+      "file": "src/cnnClassifier/utils/common.py",
+      "description": "Ensures that right datatype arguments are being passed",
+      "line": 42
+    }
+  ]
+}
